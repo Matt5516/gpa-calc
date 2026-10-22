@@ -1,0 +1,21 @@
+{
+ "name": "TermMath",
+ "short_name": "TermMath",
+ "description": "Know your GPA. Plan the next one.",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#0b1020",
+ "theme_color": "#1d4ed8",
+ "icons": [
+  {
+   "src": "favicon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  },
+  {
+   "src": "apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}

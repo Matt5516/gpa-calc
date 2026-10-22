@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://matt5516.github.io/gpa-calc/sitemap.xml
